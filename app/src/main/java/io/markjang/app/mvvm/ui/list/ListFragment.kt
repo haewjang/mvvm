@@ -1,5 +1,7 @@
 package io.markjang.app.mvvm.ui.list
 
-class ListFragment {
+import io.markjang.app.core.base.BaseDataBindingDialogFragment
+
+class ListFragment : BaseDataBindingDialogFragment() {
 
 }
