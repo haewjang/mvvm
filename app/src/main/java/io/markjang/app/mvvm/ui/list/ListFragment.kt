@@ -6,5 +6,6 @@ class ListFragment : BaseDataBindingDialogFragment() {
 
     init {
         // commit 1
+        // commit 2
     }
 }
