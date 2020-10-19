@@ -4,4 +4,7 @@ import io.markjang.app.core.base.BaseDataBindingDialogFragment
 
 class ListFragment : BaseDataBindingDialogFragment() {
 
+    init {
+        // commit 1
+    }
 }
